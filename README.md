@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anders.garberg.wtf-00F5D4?style=for-the-badge&logo=safari&logoColor=white)](https://anders.garberg.wtf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-garberg.wtf-00F5D4?style=for-the-badge&logo=safari&logoColor=white)](https://garberg.wtf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anders-garberg-4214ba383)
 [![Email](https://img.shields.io/badge/Email-Contact-8338EC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anders@garberg.wtf)
 
@@ -97,7 +97,7 @@ I'm a **Bachelor student in Automation and Intelligent Systems** at NTNU, Trondh
 
 _I'm open to internships, projects, and collaborations._
 
-[![Portfolio](https://img.shields.io/badge/🌐_anders.garberg.wtf-Visit-00F5D4?style=flat-square)](https://anders.garberg.wtf)
+[![Portfolio](https://img.shields.io/badge/🌐_garberg.wtf-Visit-00F5D4?style=flat-square)](https://garberg.wtf)
 
 </div>
 
