@@ -1,13 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://garberg.wtf/assets/profile/header-dark.png">
-  <img alt="Anders Garberg, robotics engineer. M.Sc. student in Cybernetics and Robotics at NTNU, Trondheim." src="https://garberg.wtf/assets/profile/header-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersgar/andersgar/main/assets/header-dark.png">
+  <img alt="Anders Garberg, robotics engineer. M.Sc. student in Cybernetics and Robotics at NTNU, Trondheim." src="https://raw.githubusercontent.com/andersgar/andersgar/main/assets/header-light.png" width="100%">
 </picture>
 
 Robotics, autonomy and control, with hands-on work in ROS 2, NVIDIA Isaac Sim and industrial software. C/C++, Python, MATLAB, TypeScript.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://garberg.wtf/assets/profile/strip-dark.png">
-  <img alt="Now: autonomy engineer at Marinor NTNU. Before: summer intern on the Lone Wolf UGV at KONGSBERG. Studies: M.Sc. Cybernetics and Robotics at NTNU." src="https://garberg.wtf/assets/profile/strip-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersgar/andersgar/main/assets/strip-dark.png">
+  <img alt="Now: autonomy engineer at Marinor NTNU. Before: summer intern on the Lone Wolf UGV at KONGSBERG. Studies: M.Sc. Cybernetics and Robotics at NTNU." src="https://raw.githubusercontent.com/andersgar/andersgar/main/assets/strip-light.png" width="100%">
 </picture>
 
 ## Projects
