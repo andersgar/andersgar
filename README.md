@@ -25,4 +25,4 @@ Robotics, autonomy and control, with hands-on work in ROS 2, NVIDIA Isaac Sim an
   </tr>
 </table>
 
-[garberg.wtf](https://garberg.wtf) · [LinkedIn](https://www.linkedin.com/in/anders-garberg-4214ba383) · anders@garberg.wtf
+[garberg.wtf](https://garberg.wtf) · [LinkedIn](https://www.linkedin.com/in/anders-garberg) · anders@garberg.wtf
