@@ -16,7 +16,7 @@ Robotics, autonomy and control, with hands-on work in ROS 2, NVIDIA Isaac Sim an
   <tr>
     <td width="33%"><a href="https://www.kongsberg.com/careers/summer-interns/lone-wolf/"><img src="https://garberg.tech/assets/projects/lone_wolf_2026.jpg" alt="Lone Wolf 2026" width="100%"></a></td>
     <td width="33%"><a href="https://nva.sikt.no/registration/019fdbfa5b5b-f2a75d0c-5d47-4efa-a779-18a72d807721"><img src="https://garberg.tech/assets/projects/panther_i_isaac.png" alt="B.Sc. thesis: Lone Wolf synthetic test environment" width="100%"></a></td>
-    <td width="33%"><a href="https://github.com/andersgar/anders.garberg.wtf"><img src="https://garberg.tech/assets/projects/garberg_wtf.jpg" alt="garberg.wtf" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/andersgar/anders.garberg.wtf"><img src="https://garberg.tech/assets/projects/garberg_tech.jpg" alt="garberg.wtf" width="100%"></a></td>
   </tr>
   <tr>
     <td><b>Lone Wolf 2026</b><br>Operator panel and vehicle link for KONGSBERG's unmanned ground vehicle. C++, Qt, ROS 2.</td>
